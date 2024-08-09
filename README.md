@@ -86,9 +86,6 @@ I have used these files to complete the implementation:
 </details>
 
 
-  <br/>
-   <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
-
 </details>
 
 ### Resources
