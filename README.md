@@ -1,6 +1,5 @@
-In this project, let's build an **App Store** by applying the concepts we have learned till now.
+In this project, I have built an **App Store** by applying the concepts of React
 
-### Refer to the image below:
 
 <br/>
 <div style="text-align: center;">
@@ -10,7 +9,7 @@ In this project, let's build an **App Store** by applying the concepts we have l
 
 ### Design Files
 
-<details>
+
 <summary>Click to view</summary>
 
 - [Extra Small (Size < 576px) and Small (Size >= 576px)](https://assets.ccbp.in/frontend/content/react-js/app-store-sm-output-v2.png)
@@ -21,7 +20,6 @@ In this project, let's build an **App Store** by applying the concepts we have l
 ### Set Up Instructions
 
 <details>
-<summary>Click to view</summary>
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
@@ -33,16 +31,16 @@ In this project, let's build an **App Store** by applying the concepts we have l
 <summary>Functionality to be added</summary>
 <br/>
 
-The app must have the following functionalities
+The app have the following functionalities
 
-- Initially, the **Social** tab should be active and the apps with **Social** as their category should be displayed
+- Initially, the **Social** tab should be active and the apps with **Social** as their category will be displayed
 - When a value is provided in the search input
   - The apps in the active category, that include search input value in their name should be displayed
-  - When another tab is clicked, the apps in the corresponding category, that include search input value in their name should be displayed
-  - The search should be case insensitive
+  - When another tab is clicked, the apps in the corresponding category, that include search input value in their name will be displayed
+  - The search is case insensitive
 - When the search input is empty,
-  - All the apps in the active category should be displayed
-  - When another tab is clicked, the apps in the corresponding category should be displayed
+  - All the apps in the active category are displayed
+  - When another tab is clicked, the apps in the corresponding category are displayed
 - The `AppStore` component is provided with `tabsList`. It consists of a list of tabItem objects with the following properties in each tabItem object
 
   |     Key     | Data Type |
