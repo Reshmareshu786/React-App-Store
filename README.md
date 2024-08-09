@@ -74,7 +74,7 @@ The app have the following functionalities
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+I have used these files to complete the implementation:
 
 - `src/components/AppStore/index.js`
 - `src/components/AppStore/index.css`
@@ -85,26 +85,9 @@ Use these files to complete the implementation:
 
 </details>
 
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- You can use the `cursor` CSS property to specify the mouse cursor to be displayed when pointing over an element
-
-  ```
-    cursor: pointer;
-  ```
 
   <br/>
    <img src="https://assets.ccbp.in/frontend/content/react-js/cursor-pointer-img.png" alt="cursor pointer" style="width:100px" />
-
-- You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
-
-  ```
-    outline: none;
-  ```
 
 </details>
 
@@ -138,10 +121,3 @@ Use these files to complete the implementation:
 - Bree Serif
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
